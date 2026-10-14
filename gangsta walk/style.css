@@ -1,0 +1,51 @@
+/*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}*/
+a{
+    text-decoration: none;
+    color: #4b5563;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 28px;
+    color: #2e8b57;
+}
+.nav-links a{
+    margin: 8px;
+    justify-content: center;
+    align-items: center;
+}
+.post-job a{
+    border-radius: 20px;
+    background-color: black;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 111px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    flex-wrap: wrap;
+    border-bottom: 20px yellow;
+}
+.dery li{
+    display:inline-block;
+    justify-content: space-around;
+    margin: 30px; 
+    color: black;  
+    font-size: 20px;
+    font-weight: bold;
+}
+.alisha a{
+    background-color: #2e8b57;
+    padding: 15px;
+    border-radius: 13px;
+    color: rgb(255 255 255);
+
+}
